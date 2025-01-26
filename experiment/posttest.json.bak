@@ -1,11 +1,21 @@
 [
     {
-        "question": "Sample Question",
+        "question": "The air has viscosity 1.85×10<sub>-5</sub> kg/m-s at 27°C at 1atm. Its heat capacity is 1005.7 J/kg-K , K = 0.02624 W/m-K and ρ = 1.177 kg/m<sup>3</sup>. Air is flowing over a falt plate at 57°C with an approach velocity of 3m/s. Find thermal boundry layer.",
         "qid": 1,
-        "option_a": "Option A",
-        "option_b": "Option B",
-        "option_c": "Option C",
-        "option_d": "Option D",
-        "correct_option": "a"
+        "option_a": "0.55",
+        "option_b": "0.12",
+        "option_c": "0.78",
+        "option_d": "0.99",
+        "correct_option": "d"
+    },
+
+    {
+        "question": "The air has viscosity 1.85×10<sub>-5</sub> kg/m-s at 27°C at 1atm. Its heat capacity is 1005.7 J/kg-K , K = 0.02624 W/m-K and ρ = 1.177 kg/m<sup>3</sup>. Air is flowing over a falt plate at 57°C with an approach velocity of 3m/s. Find Prandtl number.",
+        "qid": 2,
+        "option_a": "0.508",
+        "option_b": "0.709",
+        "option_c": "0.380",
+        "option_d": "0.599",
+        "correct_option": "b"
     }
 ]
